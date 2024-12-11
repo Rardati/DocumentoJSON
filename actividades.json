@@ -85,7 +85,7 @@
         "descripcion": "Aprende a decorar cupcakes o hacer galletas sencillas con formas divertidas.",
         "rango_edad": "6-12 años",
         "categoria": "Creatividad",
-        "imagen": "https://cdn.pixabay.com/photo/2016/11/29/12/54/baking-1868396_1280.jpg"
+        "imagen": "https://i.pinimg.com/236x/c9/f9/55/c9f955869bfd6e512c22e50758fe472c.jpg"
     },
     {
         "id": 12,
@@ -93,7 +93,7 @@
         "descripcion": "Una actividad relajante para enseñar posturas básicas de yoga a los niños.",
         "rango_edad": "2-9 años",
         "categoria": "Actividades físicas",
-        "imagen": "https://cdn.pixabay.com/photo/2016/11/21/13/47/meditate-1845752_1280.jpg"
+        "imagen": "https://www.duna.cl/media/2023/06/yoga-infantil.jpg"
     },
     {
         "id": 13,
@@ -101,7 +101,7 @@
         "descripcion": "Realiza experimentos básicos como hacer un volcán con bicarbonato y vinagre.",
         "rango_edad": "7-12 años",
         "categoria": "Educativo",
-        "imagen": "https://cdn.pixabay.com/photo/2017/08/01/20/07/kids-2568925_1280.jpg"
+        "imagen": "https://assets.megamediaradios.fm/sites/3/2022/01/1366_521-974x462.jpg"
     },
     {
         "id": 14,
@@ -109,7 +109,7 @@
         "descripcion": "Crea un circuito de obstáculos en casa o al aire libre para superar.",
         "rango_edad": "5-10 años",
         "categoria": "Juegos al aire libre",
-        "imagen": "https://cdn.pixabay.com/photo/2018/06/01/18/30/child-3443899_1280.jpg"
+        "imagen": "https://legionrace.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-06-at-19.38.40.jpeg"
     },
     {
         "id": 15,
@@ -117,6 +117,6 @@
         "descripcion": "Usa hilos, cuentas y otros materiales para crear pulseras personalizadas.",
         "rango_edad": "8-14 años",
         "categoria": "Manualidades",
-        "imagen": "https://cdn.pixabay.com/photo/2017/08/07/22/43/beads-2600216_1280.jpg"
+        "imagen": "https://m.media-amazon.com/images/I/81MHynZOEZL.jpg"
     }
 ]
